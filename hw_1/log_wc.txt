@@ -1,0 +1,7 @@
+ksyatsenko@MSK-L4L00W19X6 hw_1 % chmod +x wc.sh               
+ksyatsenko@MSK-L4L00W19X6 hw_1 % wc lorem.txt 
+       3      69     445 lorem.txt
+ksyatsenko@MSK-L4L00W19X6 hw_1 % wc lorem.txt lorem.txt 
+       3      69     445 lorem.txt
+       3      69     445 lorem.txt
+       6     138     890 total
